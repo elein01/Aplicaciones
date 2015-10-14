@@ -1,0 +1,12 @@
+C:\Users\LuiZz\Desktop\lectura_escritura_archivos\lectura_escritura_archivos\bin\Debug\lectura_escritura_archivos.exe.config
+C:\Users\LuiZz\Desktop\lectura_escritura_archivos\lectura_escritura_archivos\bin\Debug\lectura_escritura_archivos.exe
+C:\Users\LuiZz\Desktop\lectura_escritura_archivos\lectura_escritura_archivos\bin\Debug\lectura_escritura_archivos.pdb
+C:\Users\LuiZz\Desktop\lectura_escritura_archivos\lectura_escritura_archivos\obj\Debug\lectura_escritura_archivos.csprojResolveAssemblyReference.cache
+C:\Users\LuiZz\Desktop\lectura_escritura_archivos\lectura_escritura_archivos\obj\Debug\lectura_escritura_archivos.Form1.resources
+C:\Users\LuiZz\Desktop\lectura_escritura_archivos\lectura_escritura_archivos\obj\Debug\lectura_escritura_archivos.Properties.Resources.resources
+C:\Users\LuiZz\Desktop\lectura_escritura_archivos\lectura_escritura_archivos\obj\Debug\lectura_escritura_archivos.csproj.GenerateResource.Cache
+C:\Users\LuiZz\Desktop\lectura_escritura_archivos\lectura_escritura_archivos\obj\Debug\lectura_escritura_archivos.exe
+C:\Users\LuiZz\Desktop\lectura_escritura_archivos\lectura_escritura_archivos\obj\Debug\lectura_escritura_archivos.pdb
+E:\lectura_escritura_archivos\lectura_escritura_archivos\bin\Debug\lectura_escritura_archivos.exe.config
+E:\lectura_escritura_archivos\lectura_escritura_archivos\obj\Debug\lectura_escritura_archivos.exe
+E:\lectura_escritura_archivos\lectura_escritura_archivos\obj\Debug\lectura_escritura_archivos.pdb
