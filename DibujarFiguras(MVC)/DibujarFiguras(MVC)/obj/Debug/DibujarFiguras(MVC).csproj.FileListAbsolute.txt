@@ -1,0 +1,12 @@
+C:\Users\ELEIN_01\Desktop\DibujarFiguras(MVC)\DibujarFiguras(MVC)\bin\Debug\DibujarFiguras(MVC).exe.config
+C:\Users\ELEIN_01\Desktop\DibujarFiguras(MVC)\DibujarFiguras(MVC)\bin\Debug\DibujarFiguras(MVC).exe
+C:\Users\ELEIN_01\Desktop\DibujarFiguras(MVC)\DibujarFiguras(MVC)\bin\Debug\DibujarFiguras(MVC).pdb
+C:\Users\ELEIN_01\Desktop\DibujarFiguras(MVC)\DibujarFiguras(MVC)\obj\Debug\DibujarFiguras(MVC).csprojResolveAssemblyReference.cache
+C:\Users\ELEIN_01\Desktop\DibujarFiguras(MVC)\DibujarFiguras(MVC)\obj\Debug\DibujarFiguras_MVC_.Form1.resources
+C:\Users\ELEIN_01\Desktop\DibujarFiguras(MVC)\DibujarFiguras(MVC)\obj\Debug\DibujarFiguras_MVC_.Properties.Resources.resources
+C:\Users\ELEIN_01\Desktop\DibujarFiguras(MVC)\DibujarFiguras(MVC)\obj\Debug\DibujarFiguras(MVC).csproj.GenerateResource.Cache
+C:\Users\ELEIN_01\Desktop\DibujarFiguras(MVC)\DibujarFiguras(MVC)\obj\Debug\DibujarFiguras(MVC).exe
+C:\Users\ELEIN_01\Desktop\DibujarFiguras(MVC)\DibujarFiguras(MVC)\obj\Debug\DibujarFiguras(MVC).pdb
+C:\Users\ELEIN_01\Desktop\Programacion04\DibujarFiguras(MVC)\DibujarFiguras(MVC)\bin\Debug\DibujarFiguras(MVC).exe.config
+C:\Users\ELEIN_01\Desktop\Programacion04\DibujarFiguras(MVC)\DibujarFiguras(MVC)\obj\Debug\DibujarFiguras(MVC).exe
+C:\Users\ELEIN_01\Desktop\Programacion04\DibujarFiguras(MVC)\DibujarFiguras(MVC)\obj\Debug\DibujarFiguras(MVC).pdb
