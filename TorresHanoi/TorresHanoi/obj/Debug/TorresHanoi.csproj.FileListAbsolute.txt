@@ -1,0 +1,9 @@
+C:\Users\ELEIN_01\Desktop\TorresHanoi\TorresHanoi\bin\Debug\TorresHanoi.exe.config
+C:\Users\ELEIN_01\Desktop\TorresHanoi\TorresHanoi\obj\Debug\TorresHanoi.csprojResolveAssemblyReference.cache
+C:\Users\ELEIN_01\Desktop\TorresHanoi\TorresHanoi\obj\Debug\TorresHanoi.Form1.resources
+C:\Users\ELEIN_01\Desktop\TorresHanoi\TorresHanoi\obj\Debug\TorresHanoi.Properties.Resources.resources
+C:\Users\ELEIN_01\Desktop\TorresHanoi\TorresHanoi\obj\Debug\TorresHanoi.csproj.GenerateResource.Cache
+C:\Users\ELEIN_01\Desktop\TorresHanoi\TorresHanoi\bin\Debug\TorresHanoi.exe
+C:\Users\ELEIN_01\Desktop\TorresHanoi\TorresHanoi\bin\Debug\TorresHanoi.pdb
+C:\Users\ELEIN_01\Desktop\TorresHanoi\TorresHanoi\obj\Debug\TorresHanoi.exe
+C:\Users\ELEIN_01\Desktop\TorresHanoi\TorresHanoi\obj\Debug\TorresHanoi.pdb
