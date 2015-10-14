@@ -1,0 +1,9 @@
+C:\Users\ELEIN_01\Desktop\ColasANDPilas\ColasANDPilas\bin\Debug\ColasANDPilas.exe.config
+C:\Users\ELEIN_01\Desktop\ColasANDPilas\ColasANDPilas\bin\Debug\ColasANDPilas.exe
+C:\Users\ELEIN_01\Desktop\ColasANDPilas\ColasANDPilas\bin\Debug\ColasANDPilas.pdb
+C:\Users\ELEIN_01\Desktop\ColasANDPilas\ColasANDPilas\obj\Debug\ColasANDPilas.csprojResolveAssemblyReference.cache
+C:\Users\ELEIN_01\Desktop\ColasANDPilas\ColasANDPilas\obj\Debug\ColasANDPilas.Form1.resources
+C:\Users\ELEIN_01\Desktop\ColasANDPilas\ColasANDPilas\obj\Debug\ColasANDPilas.Properties.Resources.resources
+C:\Users\ELEIN_01\Desktop\ColasANDPilas\ColasANDPilas\obj\Debug\ColasANDPilas.csproj.GenerateResource.Cache
+C:\Users\ELEIN_01\Desktop\ColasANDPilas\ColasANDPilas\obj\Debug\ColasANDPilas.exe
+C:\Users\ELEIN_01\Desktop\ColasANDPilas\ColasANDPilas\obj\Debug\ColasANDPilas.pdb
