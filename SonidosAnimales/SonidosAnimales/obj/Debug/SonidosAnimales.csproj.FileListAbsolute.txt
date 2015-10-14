@@ -1,0 +1,9 @@
+C:\Users\ELEIN_01\Desktop\SonidosAnimales\SonidosAnimales\bin\Debug\SonidosAnimales.exe.config
+C:\Users\ELEIN_01\Desktop\SonidosAnimales\SonidosAnimales\obj\Debug\SonidosAnimales.csprojResolveAssemblyReference.cache
+C:\Users\ELEIN_01\Desktop\SonidosAnimales\SonidosAnimales\obj\Debug\SonidosAnimales.Form1.resources
+C:\Users\ELEIN_01\Desktop\SonidosAnimales\SonidosAnimales\obj\Debug\SonidosAnimales.Properties.Resources.resources
+C:\Users\ELEIN_01\Desktop\SonidosAnimales\SonidosAnimales\obj\Debug\SonidosAnimales.csproj.GenerateResource.Cache
+C:\Users\ELEIN_01\Desktop\SonidosAnimales\SonidosAnimales\bin\Debug\SonidosAnimales.exe
+C:\Users\ELEIN_01\Desktop\SonidosAnimales\SonidosAnimales\bin\Debug\SonidosAnimales.pdb
+C:\Users\ELEIN_01\Desktop\SonidosAnimales\SonidosAnimales\obj\Debug\SonidosAnimales.exe
+C:\Users\ELEIN_01\Desktop\SonidosAnimales\SonidosAnimales\obj\Debug\SonidosAnimales.pdb
