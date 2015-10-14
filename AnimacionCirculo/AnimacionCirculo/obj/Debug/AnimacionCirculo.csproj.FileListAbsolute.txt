@@ -1,0 +1,5 @@
+C:\Users\ELEIN_01\Desktop\AnimacionCirculo\AnimacionCirculo\bin\Debug\AnimacionCirculo.exe.config
+C:\Users\ELEIN_01\Desktop\AnimacionCirculo\AnimacionCirculo\obj\Debug\AnimacionCirculo.csprojResolveAssemblyReference.cache
+C:\Users\ELEIN_01\Desktop\AnimacionCirculo\AnimacionCirculo\obj\Debug\AnimacionCirculo.Form1.resources
+C:\Users\ELEIN_01\Desktop\AnimacionCirculo\AnimacionCirculo\obj\Debug\AnimacionCirculo.Properties.Resources.resources
+C:\Users\ELEIN_01\Desktop\AnimacionCirculo\AnimacionCirculo\obj\Debug\AnimacionCirculo.csproj.GenerateResource.Cache

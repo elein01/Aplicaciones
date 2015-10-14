@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimacionCirculo", "AnimacionCirculo\AnimacionCirculo.csproj", "{562D098D-9DCE-4BCF-A222-77E646CDD8CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{562D098D-9DCE-4BCF-A222-77E646CDD8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562D098D-9DCE-4BCF-A222-77E646CDD8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562D098D-9DCE-4BCF-A222-77E646CDD8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562D098D-9DCE-4BCF-A222-77E646CDD8CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
