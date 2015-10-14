@@ -1,0 +1,9 @@
+C:\Users\ELEIN_01\Desktop\DragandDrog\DragandDrog\bin\Debug\DragandDrog.exe.config
+C:\Users\ELEIN_01\Desktop\DragandDrog\DragandDrog\bin\Debug\DragandDrog.exe
+C:\Users\ELEIN_01\Desktop\DragandDrog\DragandDrog\bin\Debug\DragandDrog.pdb
+C:\Users\ELEIN_01\Desktop\DragandDrog\DragandDrog\obj\Debug\DragandDrog.csprojResolveAssemblyReference.cache
+C:\Users\ELEIN_01\Desktop\DragandDrog\DragandDrog\obj\Debug\DragandDrog.Form1.resources
+C:\Users\ELEIN_01\Desktop\DragandDrog\DragandDrog\obj\Debug\DragandDrog.Properties.Resources.resources
+C:\Users\ELEIN_01\Desktop\DragandDrog\DragandDrog\obj\Debug\DragandDrog.csproj.GenerateResource.Cache
+C:\Users\ELEIN_01\Desktop\DragandDrog\DragandDrog\obj\Debug\DragandDrog.exe
+C:\Users\ELEIN_01\Desktop\DragandDrog\DragandDrog\obj\Debug\DragandDrog.pdb
